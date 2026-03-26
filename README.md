@@ -4,8 +4,7 @@
 
 O código foi corrigido para compilar e funcionar corretamente. As seguintes alterações foram realizadas:
 
-### 1. **Models/Peca.cs** (anteriormente Peaces.cs)
-   - ✅ Renomeado de `Peaces` para `Peca` (singular)
+### 1. **Models/Peca.cs**
    - ✅ Classe com propriedades: Nome, LarguraMm, AlturaMm, Quantidade
    - ✅ Métodos: AreaUnitariaM2() e AreaTotalM2()
 
